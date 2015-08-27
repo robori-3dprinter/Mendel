@@ -14,4 +14,4 @@ https://github.com/MarlinFirmware
 
 Dokumentasi firmware Marlin terdapat di :
 
-http://www.marlinfirmware.org/index.php/Main_Page
+http://www.marlinfirmware.org
