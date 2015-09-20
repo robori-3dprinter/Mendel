@@ -1,6 +1,6 @@
 # Robori Mendel
 
-File master printer 3D Robori Mendel (proses upload).
+File master printer 3D Robori Mendel.
 
 Full kit printer 3D Robori Mendel tersedia di :
 
